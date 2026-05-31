@@ -11,8 +11,9 @@ hamburger.addEventListener("click", () => {
 // TYPEWRITER EFFECT
 
 const texts = [
+  "CSE Student",
   "Backend Developer",
-  "Software Engineering Student",
+  "Software Engineer",
   "Competitive Programmer",
   "Problem Solver"
 ];
